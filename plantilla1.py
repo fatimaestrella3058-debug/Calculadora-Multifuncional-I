@@ -3,9 +3,9 @@ Calculadora Multifuncional Interactiva - Versión Avanzada
 Proyecto de Tecnología Digital
 
 Equipo:
-- Estudiante 1: [Nombre] - Estructura Principal y Gestión de Datos
-- Estudiante 2: [Nombre] - Funciones Matemáticas
-- Estudiante 3: [Nombre] - Conversores y Sistema de Historial
+- Estudiante 1: [Fatima] - Estructura Principal y Gestión de Datos
+- Estudiante 2: [Ricardo] - Funciones Matemáticas
+- Estudiante 3: [Raul]- Conversores y Sistema de Historial
 
 Fecha: Febrero 2026
 Universidad de Guadalajara - Campus GDL
